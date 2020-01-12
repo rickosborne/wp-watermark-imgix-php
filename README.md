@@ -6,6 +6,11 @@ You absolutely do not want to use this plugin.
 
 It hooks the WP attachment API to watch as files are uploaded and resized, then runs each through imgix's [watermark](https://docs.imgix.com/apis/url/watermark/mark) API, downloading them and updating the metadata before the CDN uploader plugin sees the files.
 
+## How is it installed?
+
+You don't.
+The source is here for posterity, not for production.
+
 ## History
 
 I use WordPress for [my blog](https://rickosborne.org/blog/).
